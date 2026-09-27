@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
- <url><loc>https://ijengenharia.com/</loc><lastmod>2026-09-26</lastmod><changefreq>weekly</changefreq><priority>1.0</priority>
-  <image:image><image:loc>https://ijengenharia.com/assets/img/og-home.jpg</image:loc></image:image>
-  <image:image><image:loc>https://ijengenharia.com/assets/img/logo-iolam-junior-engenharia.png</image:loc></image:image>
+ <url><loc>https://www.ijengenharia.com/</loc><lastmod>2026-09-27</lastmod><changefreq>weekly</changefreq><priority>1.0</priority>
+  <image:image><image:loc>https://www.ijengenharia.com/assets/img/og-home.jpg</image:loc></image:image>
+  <image:image><image:loc>https://www.ijengenharia.com/assets/img/logo-iolam-junior-engenharia.png</image:loc></image:image>
  </url>
- <url><loc>https://ijengenharia.com/construtora.html</loc><lastmod>2026-09-26</lastmod><changefreq>weekly</changefreq><priority>0.9</priority>
-  <image:image><image:loc>https://ijengenharia.com/assets/img/mall-jardins-munique-1.jpg</image:loc></image:image>
-  <image:image><image:loc>https://ijengenharia.com/assets/img/mall-jardins-munique-2.jpg</image:loc></image:image>
-  <image:image><image:loc>https://ijengenharia.com/assets/img/casas-aquiraz-fachada.jpg</image:loc></image:image>
-  <image:image><image:loc>https://ijengenharia.com/assets/img/casas-aquiraz-muro.jpg</image:loc></image:image>
-  <image:image><image:loc>https://ijengenharia.com/assets/img/cidade-alpha-frente.jpg</image:loc></image:image>
-  <image:image><image:loc>https://ijengenharia.com/assets/img/cidade-alpha-lateral.jpg</image:loc></image:image>
+ <url><loc>https://www.ijengenharia.com/construtora.html</loc><lastmod>2026-09-27</lastmod><changefreq>weekly</changefreq><priority>0.9</priority>
+  <image:image><image:loc>https://www.ijengenharia.com/assets/img/mall-jardins-munique-1.jpg</image:loc></image:image>
+  <image:image><image:loc>https://www.ijengenharia.com/assets/img/mall-jardins-munique-2.jpg</image:loc></image:image>
+  <image:image><image:loc>https://www.ijengenharia.com/assets/img/casas-aquiraz-fachada.jpg</image:loc></image:image>
+  <image:image><image:loc>https://www.ijengenharia.com/assets/img/casas-aquiraz-muro.jpg</image:loc></image:image>
+  <image:image><image:loc>https://www.ijengenharia.com/assets/img/cidade-alpha-frente.jpg</image:loc></image:image>
+  <image:image><image:loc>https://www.ijengenharia.com/assets/img/cidade-alpha-lateral.jpg</image:loc></image:image>
  </url>
- <url><loc>https://ijengenharia.com/consultoria.html</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.9</priority>
-  <image:image><image:loc>https://ijengenharia.com/assets/img/portfolio-hospital-unimed-sul.jpg</image:loc></image:image>
-  <image:image><image:loc>https://ijengenharia.com/assets/img/portfolio-patio-cariri.jpg</image:loc></image:image>
-  <image:image><image:loc>https://ijengenharia.com/assets/img/portfolio-mall-laguna.jpg</image:loc></image:image>
+ <url><loc>https://www.ijengenharia.com/consultoria.html</loc><lastmod>2026-09-27</lastmod><changefreq>monthly</changefreq><priority>0.9</priority>
+  <image:image><image:loc>https://www.ijengenharia.com/assets/img/portfolio-hospital-unimed-sul.jpg</image:loc></image:image>
+  <image:image><image:loc>https://www.ijengenharia.com/assets/img/portfolio-patio-cariri.jpg</image:loc></image:image>
+  <image:image><image:loc>https://www.ijengenharia.com/assets/img/portfolio-mall-laguna.jpg</image:loc></image:image>
  </url>
- <url><loc>https://ijengenharia.com/contato.html</loc><lastmod>2026-09-26</lastmod><changefreq>yearly</changefreq><priority>0.6</priority>
+ <url><loc>https://www.ijengenharia.com/contato.html</loc><lastmod>2026-09-27</lastmod><changefreq>yearly</changefreq><priority>0.6</priority>
  </url>
 </urlset>
